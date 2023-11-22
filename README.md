@@ -1,7 +1,7 @@
 # viewBinding
 ## Recuperando com o viewBinding
 
-Segunda parte método dois Esse da a continuidade do projeto anterior, única alteração relaciona a viewBinding.
+Segunda parte, método dois: Esse, da a continuidade do projeto anterior, única alteração relaciona-se a viewBinding.
 
 Vamos ter o mesmo resultado com esse método. Sendo menos verboso. 
 Ou seja, escreve menos código. Recuperando o ID da mesma forma.
